@@ -27,6 +27,7 @@ The Binder badge above can be used to explore an executable environment for this
 
 ## Issues
 
+- fix opening Jupyter Notebook bug
 - save second data set as .csv
 - review project for further applications
 
