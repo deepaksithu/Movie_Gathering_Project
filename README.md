@@ -10,7 +10,7 @@ Movie Gathering Project is a project submission for the Udacity Data Analyst Nan
 
 ## Overview
 
-This project uses a data set, `bestofrt.tsv`, which contains a list of the top 100 films on Rotten Tomatoes based on the websites own rankings, which are derived from the average critic's score. The data set has columns for ranking, critic's score, title of the film, and the number of critic scores. From there the web pages for each film are accessed and scraped using the `requests` and `os` libraries and `BeautifulSoup` to find the audience ratings and the count of audience ratings for each film, which is then saved as it's own data set.
+This project uses a data set, `bestofrt.tsv`, which contains a list of the top 100 films on Rotten Tomatoes based on the websites own rankings, which are derived from the average critic's score. The data set has columns for ranking, critics score, title of the film, and the number of critics scores. From there the web pages for each film on Rotten Tomatoes are accessed and scraped using the `requests`, `os`, and `BeautifulSoup` libraries to find the audience ratings and the count of audience ratings for each film, which are then saved as their own data set.
 
 ## Requirements
 
